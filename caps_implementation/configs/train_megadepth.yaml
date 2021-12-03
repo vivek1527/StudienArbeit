@@ -1,0 +1,3 @@
+# training from scratch using a single gpu, default configs in config.py file
+exp_name: /media/vivekramayanam/STUDY/CSE/4-sem/StudienArbeit/CAPS-MegaDepth-release-light
+datadir: /media/vivekramayanam/STUDY/CSE/4-sem/StudienArbeit/CAPS-MegaDepth-release-light/  # replace with your data dir
